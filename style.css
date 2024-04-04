@@ -1,0 +1,15 @@
+.plus{ box-sizing: border-box;
+    border: solid;
+    width: 1249px;
+    height: 376px;
+   margin-top: 73px;
+   margin-left: 84px;
+    background-color: #22F4da;
+   border-radius: 30px;
+   border: none;
+}
+.box{
+    
+padding-top: 50px;
+  margin-left: 550px;
+}
